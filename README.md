@@ -12,6 +12,7 @@
 ### 3. 사용기술
 
 - Vue3
+- Pinia
 - Bootstrap v5.2.2
 - Bootstrap icon v1.10.2
 - Kakao login API
